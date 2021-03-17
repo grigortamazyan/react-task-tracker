@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Lanch with friends",
+      "day": "1th of January",
+      "reminder": true
+    },
+    {
+      "text": "Go 42 and drink coffee",
+      "day": "now",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Gnal Tumo",
+      "day": "Today",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Dinner with Friends",
+      "day": "Sunday",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
